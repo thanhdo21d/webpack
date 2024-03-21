@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "_idLine": "1",
+      "lineName": "AFM III-1 ",
+      "idLine": 11,
+      "productivityRate": 38,
+      "status": 0,
+      "id": "5845"
+    },
+    {
+      "_idLine": "2",
+      "lineName": "AFM V-2",
+      "idLine": 12,
+      "productivityRate": 66,
+      "status": 2,
+      "id": "000a"
+    },
+    {
+      "_idLine": "3",
+      "lineName": "AFM V-1",
+      "idLine": 9,
+      "productivityRate": 67,
+      "status": 0,
+      "id": "5cb5"
+    },
+    {
+      "_idLine": "4",
+      "lineName": "AFMIII_W",
+      "idLine": 69,
+      "productivityRate": 65,
+      "status": 0,
+      "id": "7b2d"
+    },
+    {
+      "_idLine": "6",
+      "lineName": "APM 1",
+      "idLine": 96,
+      "productivityRate": 16,
+      "status": 2,
+      "id": "2afa"
+    },
+    {
+      "_idLine": "7",
+      "lineName": "APM 2",
+      "idLine": 13,
+      "productivityRate": 5,
+      "status": 1,
+      "id": "647a"
+    },
+    {
+      "_idLine": "8",
+      "lineName": "APM 6",
+      "idLine": 70,
+      "productivityRate": 36,
+      "status": 1,
+      "id": "43e2"
+    },
+    {
+      "_idLine": "9",
+      "lineName": "APM 6-2",
+      "idLine": 117,
+      "productivityRate": 7,
+      "status": 2,
+      "id": "40f4"
+    },
+    {
+      "_idLine": "10",
+      "lineName": "AFM Sensor",
+      "idLine": 134,
+      "productivityRate": 88,
+      "status": 0,
+      "id": "0dc7"
+    },
+    {
+      "_idLine": "11",
+      "lineName": "AVS ",
+      "idLine": 18,
+      "productivityRate": 49,
+      "status": 1,
+      "id": "31d1"
+    }
+  ]
+}
